@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <!-- Add remote scripts -->
+  <script src="https://cdn.jsdelivr.net/npm/@mediapipe/camera_utils@0.1/camera_utils.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@mediapipe/control_utils@0.1/control_utils.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@mediapipe/drawing_utils@0.1/drawing_utils.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@mediapipe/hands@0.1/hands.js" crossorigin="anonymous"></script>
+  
+</head>
+<body>
+<div class="container">
+    <!-- Create input video class -->
+    <video class="input_video"></video>
+    <!-- Create output canvas class -->
+    <canvas class="output_canvas" width="1280px" height="720px"></canvas>
+    <!-- Create input image 1 class -->
+    <img class="product-hero-image" src="./logo_white.png" alt="white rectangle" width="39" height="20"/>
+<!-- Add local script -->
+<script  src="./script.js"></script>
+</body>
+</html>
