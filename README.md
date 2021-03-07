@@ -1,4 +1,4 @@
-# The-Finger-Track-Games
+The Finger Track Games
 
 modeled on Google Mediapipe
 
@@ -15,4 +15,5 @@ Future Scope?
 
 References
 
+Need for Hand Tracking.
 
