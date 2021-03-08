@@ -50,3 +50,13 @@ Fig. 3: ‘The Landmarks Map’.
 
 Does changing the hyperparameters have any effect?
 
+
+1. Increasing the maximum number of hands to detect leads to higher false positive error rates.
+
+2. Decreasing the minimum confidence of detection leads to higher false positive error rates.
+
+3. Decreasing the minimum confidence of tracking leads to higher false positive error rates.
+
+
+Future Scope?
+
