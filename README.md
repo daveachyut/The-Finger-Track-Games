@@ -31,3 +31,13 @@ Unless the companies are very sure, most of the customer data needs to be privat
 Hyperparameters used / assumptions made during the project.
 
 
+I have implemented the object detection for the default front cams of laptops / mobile devices instead of for additional webcams or back cameras in mobile devices.
+
+I have assumed on rectangle shaped white object, that will be displayed whenever the hand is detected. The task is to move, rotate and scale this rectangle according to the position of the hand, which is being tracked.
+
+Further assumptions include maximum number of hands to detect as one, minimum confidence to classify detected object as hand as 0.61 and minimum confidence to classify tracked object as hand as 0.61.
+
+
+How do we study ‘The Landmark Map’?
+
+
