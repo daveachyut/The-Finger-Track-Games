@@ -117,8 +117,11 @@ const hands = new Hands({locateFile: (file) => {
 
 // Set parameters for hands
 hands.setOptions({
+  // Maximum number of hands to detect
   maxNumHands: 1,
+  // Minimum detection confidence
   minDetectionConfidence: 0.61,
+  // Minimum tracking confidence
   minTrackingConfidence: 0.61
 });
 hands.onResults(onResults);
