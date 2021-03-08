@@ -47,3 +47,6 @@ This graphical representation of points of concern in a hand is referred to as �
  
 Fig. 3: ‘The Landmarks Map’.
 
+
+Does changing the hyperparameters have any effect?
+
