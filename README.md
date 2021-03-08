@@ -60,3 +60,17 @@ Does changing the hyperparameters have any effect?
 
 Future Scope?
 
+
+1. Replace the rectangle with an obj file of 3d object to produce AR effects.
+
+2. Change the 3d objects according to front end conditions and create avirtual try-on service.
+
+3. Make serious changes to the layout, and produce effects on a webpage, like scrolling.
+
+4. Change background / scenery and take realistic selfies.
+
+5. Upgrading this with a React.JS application, to provide apps in iOS and Android smartphones.
+
+
+References
+
