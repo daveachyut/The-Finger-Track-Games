@@ -74,3 +74,12 @@ Future Scope?
 
 References
 
+
+1. https://google.github.io/mediapipe/solutions/solutions
+
+2. https://viz.mediapipe.dev/
+
+3. https://github.com/google/mediapipe/tree/master/mediapipe
+
+4. https://github.com/google/mediapipe/tree/master/mediapipe/modules/hand_landmark
+ 
