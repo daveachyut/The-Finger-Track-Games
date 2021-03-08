@@ -58,6 +58,7 @@ function onResults(results) {
         
 	  var X = landmarks;
 	  
+	  // Index finger details
 	  var mouse1_X = X[7]['x']
 	  var mouse1_Y = X[7]['y']
 
