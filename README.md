@@ -43,7 +43,7 @@ How do we study ‘The Landmark Map’?
 
 This graphical representation of points of concern in a hand is referred to as ‘The Landmarks Map’.
 
-![](images/landmarks_map.jpeg)
+![](multimedia/landmarks_map.jpeg)
  
 Fig. 3: ‘The Landmarks Map’.
 
