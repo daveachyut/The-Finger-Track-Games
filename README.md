@@ -27,7 +27,7 @@ Object detection models are used for loads of goals, such as Augmented Reality, 
 
 Unless the companies are very sure, most of the customer data needs to be private. And considering additional costs of client server transfers of data, client-side programs are cheaper as well as have minimal latency. We can also add several client-side controls of elements / visuals that your application provides / supports.
 
-![](multimedia/Demo_deprimido.mp4)
+![](multimedia/Demo_deprimid2.gif)
  
 Fig. 1: Demo of the app.
 
