@@ -37,6 +37,10 @@ I have assumed on rectangle shaped white object, that will be displayed whenever
 
 Further assumptions include maximum number of hands to detect as one, minimum confidence to classify detected object as hand as 0.61 and minimum confidence to classify tracked object as hand as 0.61.
 
+![](multimedia/SingleHandBS.png)
+ 
+Fig. 2: Effects of assumptions.
+
 
 How do we study ‘The Landmark Map’?
 
