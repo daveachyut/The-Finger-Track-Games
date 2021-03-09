@@ -29,7 +29,7 @@ Unless the companies are very sure, most of the customer data needs to be privat
 
 ![](multimedia/Demo_deprimido.mp4)
  
-Fig. 2: Effects of assumptions.
+Fig. 1: Demo of the app.
 
 
 Hyperparameters used / assumptions made during the project.
